@@ -30,7 +30,7 @@ export default function Page() {
               <GoTriangleRight size={20} />
               CONTENT LIBRARY
             </h1>
-            <h1 className="pl-2 pt-5 text-2xl sm:text-3xl lg:text-4xl font-semibold leading-snug">
+            <h1 className="pl-2 pt-5 text-2xl sm:text-3xl lg:text-4xl leading-snug">
               Where to find Content Library ?
             </h1>
             <Link
@@ -43,7 +43,7 @@ export default function Page() {
           </div>
 
           <div className="w-full lg:w-1/2 pt-4 lg:pt-12 text-gray-300">
-            <p className="text-base sm:text-lg leading-relaxed">
+            <p className="">
               Ready-to-use product content for web design competitions. High-quality
               images, descriptions, specifications, and reference links — everything
               you need to focus on creating amazing designs.
