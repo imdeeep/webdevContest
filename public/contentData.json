@@ -1,0 +1,593 @@
+{
+  "Electronics": [
+    {
+      "id": "ps5",
+      "name": "PlayStation 5 (PS5)",
+      "image": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?w=800&h=600&fit=crop",
+      "shortDesc": "Next-generation gaming console with lightning-fast loading and stunning graphics.",
+      "longDesc": "The PlayStation 5 represents the pinnacle of gaming technology, featuring a custom AMD Zen 2 CPU, RDNA 2 GPU, and ultra-high speed SSD. Experience games like never before with ray tracing, 3D audio, and the innovative DualSense controller with haptic feedback.",
+      "specs": [
+        "Custom AMD Zen 2 8-Core CPU",
+        "AMD RDNA 2 GPU",
+        "16GB GDDR6 RAM",
+        "825GB SSD Storage",
+        "4K Blu-ray Drive"
+      ],
+      "price": "$499.99",
+      "category": "Gaming Console",
+      "colors": ["White", "Black"],
+      "dimensions": "390mm × 104mm × 260mm",
+      "referenceLinks": [
+        "https://playstation.com/ps5",
+        "https://amazon.com/dp/B08FC5L3RG"
+      ]
+    },
+    {
+      "id": "xbox-series-x",
+      "name": "Xbox Series X",
+      "image": "https://images.unsplash.com/photo-1621259182978-fbf93132d53d?w=800&h=600&fit=crop",
+      "shortDesc": "Most powerful Xbox ever with 4K gaming and Quick Resume technology.",
+      "longDesc": "The Xbox Series X delivers 4K gaming at up to 120 frames per second, with Quick Resume technology that lets you seamlessly switch between multiple games. Powered by a custom AMD Zen 2 CPU and RDNA 2 GPU.",
+      "specs": [
+        "Custom AMD Zen 2 8-Core CPU",
+        "AMD RDNA 2 GPU",
+        "16GB GDDR6 RAM",
+        "1TB NVMe SSD",
+        "4K Blu-ray Drive"
+      ],
+      "price": "$499.99",
+      "category": "Gaming Console",
+      "colors": ["Black"],
+      "dimensions": "301mm × 151mm × 151mm",
+      "referenceLinks": [
+        "https://xbox.com/xbox-series-x",
+        "https://amazon.com/dp/B08H75RTZ8"
+      ]
+    },
+    {
+      "id": "iphone-15-pro",
+      "name": "iPhone 15 Pro",
+      "image": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=800&h=600&fit=crop",
+      "shortDesc": "Forged in titanium with Pro camera system and powerful A17 Pro chip.",
+      "longDesc": "The iPhone 15 Pro features a Grade 5 titanium design, making it the lightest Pro model ever. Powered by the A17 Pro chip built on 3-nanometer technology, it delivers unprecedented performance and efficiency with advanced camera capabilities.",
+      "specs": [
+        "A17 Pro chip",
+        "6.1\" Super Retina XDR display",
+        "Triple camera system",
+        "USB-C connector",
+        "Face ID"
+      ],
+      "price": "$999.00",
+      "category": "Smartphone",
+      "colors": [
+        "Natural Titanium",
+        "Blue Titanium",
+        "White Titanium",
+        "Black Titanium"
+      ],
+      "dimensions": "146.6 × 70.6 × 8.25 mm",
+      "referenceLinks": [
+        "https://apple.com/iphone-15-pro",
+        "https://amazon.com/dp/B0CHWV2WYK"
+      ]
+    },
+    {
+      "id": "galaxy-z-fold",
+      "name": "Samsung Galaxy Z Fold 5",
+      "image": "https://images.unsplash.com/photo-1610792516307-ea5acd9c6d5a?w=800&h=600&fit=crop",
+      "shortDesc": "Revolutionary foldable smartphone that unfolds your world.",
+      "longDesc": "The Galaxy Z Fold 5 transforms from a compact phone to a tablet-sized display. With the Snapdragon 8 Gen 2 processor and improved hinge design, it offers seamless multitasking and productivity on the go.",
+      "specs": [
+        "Snapdragon 8 Gen 2",
+        "7.6\" Main Display",
+        "6.2\" Cover Display",
+        "12GB RAM",
+        "Triple rear cameras"
+      ],
+      "price": "$1,799.99",
+      "category": "Foldable Smartphone",
+      "colors": ["Phantom Black", "Cream", "Icy Blue"],
+      "dimensions": "154.9 × 129.9 × 6.1 mm (unfolded)",
+      "referenceLinks": [
+        "https://samsung.com/galaxy-z-fold-5",
+        "https://amazon.com/dp/B0C63KD7JP"
+      ]
+    },
+    {
+      "id": "bose-headphones",
+      "name": "Bose QuietComfort Ultra",
+      "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=800&h=600&fit=crop",
+      "shortDesc": "Premium wireless headphones with world-class noise cancellation.",
+      "longDesc": "Breakthrough spatial audio technology and legendary noise cancellation combine for an immersive listening experience. Premium materials and all-day comfort make these perfect for any environment.",
+      "specs": [
+        "Advanced noise cancellation",
+        "Spatial audio technology",
+        "24-hour battery life",
+        "Bluetooth 5.3",
+        "Touch controls"
+      ],
+      "price": "$429.00",
+      "category": "Audio",
+      "colors": ["Black", "White Smoke", "Moonstone Blue"],
+      "dimensions": "180 × 135 × 50 mm",
+      "referenceLinks": [
+        "https://bose.com/headphones/noise-canceling",
+        "https://amazon.com/dp/B0CCZ26B5V"
+      ]
+    }
+  ],
+  "Automobiles": [
+    {
+      "id": "tesla-model-3",
+      "name": "Tesla Model 3",
+      "image": "https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=800&h=600&fit=crop",
+      "shortDesc": "All-electric sedan with autopilot capabilities and impressive range.",
+      "longDesc": "The Tesla Model 3 combines performance, safety, and efficiency in a stylish package. With over 300 miles of range and access to Tesla's Supercharger network, it redefines electric mobility with advanced autopilot features.",
+      "specs": [
+        "Dual Motor AWD",
+        "358 mile range",
+        "0-60 mph in 4.2s",
+        "Autopilot included",
+        "15\" touchscreen"
+      ],
+      "price": "$38,990",
+      "category": "Electric Vehicle",
+      "colors": [
+        "Pearl White",
+        "Midnight Silver",
+        "Deep Blue",
+        "Pearl Red",
+        "Solid Black"
+      ],
+      "dimensions": "4694 × 1849 × 1443 mm",
+      "referenceLinks": [
+        "https://tesla.com/model3",
+        "https://cars.com/tesla/model-3"
+      ]
+    },
+    {
+      "id": "bmw-i8",
+      "name": "BMW i8",
+      "image": "https://images.unsplash.com/photo-1555215695-3004980ad54e?w=800&h=600&fit=crop",
+      "shortDesc": "Futuristic hybrid sports car with iconic butterfly doors.",
+      "longDesc": "The BMW i8 represents the future of sustainable performance with its plug-in hybrid powertrain and revolutionary carbon fiber construction. Its distinctive design and butterfly doors make it an unmistakable icon on the road.",
+      "specs": [
+        "1.5L turbocharged engine",
+        "Electric motor",
+        "374 total horsepower",
+        "Butterfly doors",
+        "Carbon fiber body"
+      ],
+      "price": "$147,500",
+      "category": "Hybrid Sports Car",
+      "colors": ["Crystal White", "Sophisto Grey", "Donington Grey"],
+      "dimensions": "4689 × 1942 × 1293 mm",
+      "referenceLinks": ["https://bmw.com/i8", "https://cars.com/bmw/i8"]
+    },
+    {
+      "id": "toyota-supra",
+      "name": "Toyota Supra",
+      "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800&h=600&fit=crop",
+      "shortDesc": "Legendary sports car reborn with modern performance engineering.",
+      "longDesc": "The legendary Toyota Supra returns with a perfect balance of power and precision. Featuring a turbocharged inline-6 engine and rear-wheel drive, it delivers an authentic sports car experience with modern reliability.",
+      "specs": [
+        "3.0L Turbocharged I6",
+        "382 horsepower",
+        "RWD",
+        "0-60 mph in 4.1s",
+        "8-speed automatic"
+      ],
+      "price": "$43,090",
+      "category": "Sports Car",
+      "colors": [
+        "Renaissance Red",
+        "Absolute Zero White",
+        "Nocturnal Black",
+        "Storm Grey"
+      ],
+      "dimensions": "4379 × 1854 × 1293 mm",
+      "referenceLinks": [
+        "https://toyota.com/supra",
+        "https://cars.com/toyota/supra"
+      ]
+    },
+    {
+      "id": "porsche-taycan",
+      "name": "Porsche Taycan",
+      "image": "https://images.unsplash.com/photo-1614200187524-dc4b892acf16?w=800&h=600&fit=crop",
+      "shortDesc": "Electric sports car delivering pure Porsche DNA with zero emissions.",
+      "longDesc": "The Taycan is Porsche's first fully electric sports car, combining typical Porsche performance with pioneering electric technology. Experience the future of driving with 800V technology and lightning-fast charging.",
+      "specs": [
+        "Dual motor setup",
+        "408 mile range",
+        "0-60 mph in 2.6s",
+        "800V architecture",
+        "Sport Chrono Package"
+      ],
+      "price": "$79,900",
+      "category": "Luxury Electric Vehicle",
+      "colors": [
+        "Carrara White",
+        "Jet Black",
+        "Ice Grey",
+        "Gentian Blue",
+        "Carmine Red"
+      ],
+      "dimensions": "4963 × 1966 × 1378 mm",
+      "referenceLinks": [
+        "https://porsche.com/taycan",
+        "https://cars.com/porsche/taycan"
+      ]
+    },
+    {
+      "id": "jeep-wrangler",
+      "name": "Jeep Wrangler",
+      "image": "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=800&h=600&fit=crop",
+      "shortDesc": "Iconic off-road SUV built for adventure and authentic experiences.",
+      "longDesc": "The Jeep Wrangler maintains its legendary off-road capability while adding modern comfort and technology. With removable doors and roof, it offers an open-air driving experience like no other vehicle.",
+      "specs": [
+        "3.6L V6 engine",
+        "285 horsepower",
+        "4x4 capability",
+        "Removable doors/roof",
+        "Rock-Trac 4WD system"
+      ],
+      "price": "$31,895",
+      "category": "Off-Road SUV",
+      "colors": [
+        "Bright White",
+        "Black",
+        "Firecracker Red",
+        "Ocean Blue",
+        "Sarge Green"
+      ],
+      "dimensions": "4334 × 1894 × 1848 mm",
+      "referenceLinks": [
+        "https://jeep.com/wrangler",
+        "https://cars.com/jeep/wrangler"
+      ]
+    }
+  ],
+  "Lifestyle & Fashion": [
+    {
+      "id": "air-jordan-1",
+      "name": "Nike Air Jordan 1 Retro High OG",
+      "image": "https://images.unsplash.com/photo-1556906781-9a412961c28c?w=800&h=600&fit=crop",
+      "shortDesc": "Legendary basketball sneakers that defined street culture and style.",
+      "longDesc": "The Air Jordan 1 changed the game when it first released in 1985. This retro version honors the original with premium leather construction and iconic colorways that continue to influence fashion decades later.",
+      "specs": [
+        "Premium leather upper",
+        "Nike Air cushioning",
+        "Rubber outsole",
+        "High-top silhouette",
+        "Wings logo"
+      ],
+      "price": "$170.00",
+      "category": "Footwear",
+      "colors": ["Chicago", "Bred", "Royal Blue", "Shadow", "Court Purple"],
+      "dimensions": "US sizes 4-18 available",
+      "referenceLinks": [
+        "https://nike.com/air-jordan-1",
+        "https://footlocker.com/air-jordan-1"
+      ]
+    },
+    {
+      "id": "adidas-ultraboost",
+      "name": "Adidas Ultraboost 22",
+      "image": "https://images.unsplash.com/photo-1544966503-7ad5ac882d5d?w=800&h=600&fit=crop",
+      "shortDesc": "Revolutionary running shoes with energy-returning Boost technology.",
+      "longDesc": "The Ultraboost 22 features responsive Boost cushioning and a Primeknit upper for comfort and performance. Designed for runners who demand the ultimate in energy return and comfort mile after mile.",
+      "specs": [
+        "Boost midsole",
+        "Primeknit upper",
+        "Continental rubber outsole",
+        "Torsion System",
+        "Linear Energy Push"
+      ],
+      "price": "$180.00",
+      "category": "Athletic Footwear",
+      "colors": [
+        "Core Black",
+        "Cloud White",
+        "Solar Red",
+        "Collegiate Navy",
+        "Wonder White"
+      ],
+      "dimensions": "US sizes 5-14 available",
+      "referenceLinks": [
+        "https://adidas.com/ultraboost",
+        "https://footlocker.com/adidas-ultraboost"
+      ]
+    },
+    {
+      "id": "rayban-wayfarers",
+      "name": "Ray-Ban Original Wayfarer",
+      "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=800&h=600&fit=crop",
+      "shortDesc": "Timeless eyewear combining classic style with premium protection.",
+      "longDesc": "The Original Wayfarer is the most recognizable style in the history of sunglasses. Since its debut in 1952, it has been worn by countless celebrities and style icons, defining cool for generations.",
+      "specs": [
+        "Acetate frame",
+        "Crystal lenses",
+        "100% UV protection",
+        "Gradient options",
+        "Multiple sizes"
+      ],
+      "price": "$154.00",
+      "category": "Eyewear",
+      "colors": ["Black", "Tortoise", "Havana", "Blue", "Clear"],
+      "dimensions": "50mm, 54mm lens sizes available",
+      "referenceLinks": [
+        "https://ray-ban.com/wayfarer",
+        "https://sunglasshut.com/ray-ban-wayfarer"
+      ]
+    },
+    {
+      "id": "fossil-smartwatch",
+      "name": "Fossil Gen 6 Smartwatch",
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&h=600&fit=crop",
+      "shortDesc": "Smart timepiece blending traditional craftsmanship with modern technology.",
+      "longDesc": "The Fossil Gen 6 combines classic watch design with Wear OS by Google, offering fitness tracking, smart notifications, and customizable watch faces in a beautifully crafted stainless steel case.",
+      "specs": [
+        "Wear OS by Google",
+        "Snapdragon Wear 4100+",
+        "1.28\" AMOLED display",
+        "Heart rate & SpO2 tracking",
+        "GPS built-in"
+      ],
+      "price": "$255.00",
+      "category": "Smartwatch",
+      "colors": ["Silver", "Black", "Rose Gold", "Blue", "Brown Leather"],
+      "dimensions": "44mm case diameter",
+      "referenceLinks": [
+        "https://fossil.com/smartwatches",
+        "https://amazon.com/fossil-gen-6-smartwatch"
+      ]
+    },
+    {
+      "id": "gucci-handbag",
+      "name": "Gucci GG Marmont Matelassé",
+      "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=800&h=600&fit=crop",
+      "shortDesc": "Luxury leather handbag featuring iconic Italian craftsmanship and design.",
+      "longDesc": "The GG Marmont line features a softly structured shape with the double G hardware and heart on the back. Crafted in matelassé chevron leather with antique gold-toned hardware for timeless luxury.",
+      "specs": [
+        "Matelassé chevron leather",
+        "Antique gold hardware",
+        "Double G logo",
+        "Chain strap",
+        "Multiple compartments"
+      ],
+      "price": "$2,100.00",
+      "category": "Luxury Handbag",
+      "colors": ["Black", "Red", "White", "Pink", "Beige"],
+      "dimensions": "26cm W x 15cm H x 7cm D",
+      "referenceLinks": [
+        "https://gucci.com/handbags",
+        "https://fashionphile.com/gucci-marmont"
+      ]
+    }
+  ],
+  "Home & Gadgets": [
+    {
+      "id": "echo-dot",
+      "name": "Amazon Echo Dot (5th Gen)",
+      "image": "https://images.unsplash.com/photo-1543512214-318c7553f230?w=800&h=600&fit=crop",
+      "shortDesc": "Compact smart speaker with Alexa for voice control of your smart home.",
+      "longDesc": "The Echo Dot delivers crisp vocals and balanced bass for full sound. Voice control your music, ask questions, set timers, and control compatible smart home devices with ease using just your voice.",
+      "specs": [
+        "Alexa built-in",
+        "Improved audio quality",
+        "Built-in temperature sensor",
+        "Eero Built-in",
+        "Voice control"
+      ],
+      "price": "$49.99",
+      "category": "Smart Speaker",
+      "colors": ["Charcoal", "Glacier White", "Deep Sea Blue"],
+      "dimensions": "100mm × 100mm × 89mm",
+      "referenceLinks": [
+        "https://amazon.com/echo-dot",
+        "https://bestbuy.com/amazon-echo-dot"
+      ]
+    },
+    {
+      "id": "nest-hub",
+      "name": "Google Nest Hub (2nd Gen)",
+      "image": "https://images.unsplash.com/photo-1558002038-1055907df827?w=800&h=600&fit=crop",
+      "shortDesc": "Smart display that helps organize your day and control your home.",
+      "longDesc": "The Nest Hub brings helpful Google features to your home with a 7-inch screen, sleep tracking, and the ability to control thousands of compatible smart devices with just your voice or a tap.",
+      "specs": [
+        "7-inch touchscreen",
+        "Sleep sensing",
+        "Google Assistant",
+        "Smart home hub",
+        "Music streaming"
+      ],
+      "price": "$99.99",
+      "category": "Smart Display",
+      "colors": ["Charcoal", "Chalk", "Sand", "Mist"],
+      "dimensions": "177.4mm W × 69.5mm H × 120.4mm D",
+      "referenceLinks": [
+        "https://store.google.com/nest-hub",
+        "https://bestbuy.com/google-nest-hub"
+      ]
+    },
+    {
+      "id": "dyson-purifier",
+      "name": "Dyson Purifier Cool TP07",
+      "image": "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=800&h=600&fit=crop",
+      "shortDesc": "Advanced air purification technology that captures 99.97% of particles.",
+      "longDesc": "The Dyson Purifier Cool combines intelligent sensing with an advanced filtration system to purify your whole room. It captures gases and 99.97% of particles as small as 0.3 microns, then projects purified air throughout the room.",
+      "specs": [
+        "HEPA H13 filter",
+        "360° filtration",
+        "Air quality sensors",
+        "Remote control",
+        "Oscillation"
+      ],
+      "price": "$549.99",
+      "category": "Air Purifier",
+      "colors": ["White/Silver", "Black/Nickel"],
+      "dimensions": "220mm W × 220mm D × 1,050mm H",
+      "referenceLinks": [
+        "https://dyson.com/air-purifiers",
+        "https://bestbuy.com/dyson-purifier-cool"
+      ]
+    },
+    {
+      "id": "philips-hue",
+      "name": "Philips Hue White and Color Ambiance",
+      "image": "https://images.unsplash.com/photo-1540932239986-30128078f3c5?w=800&h=600&fit=crop",
+      "shortDesc": "Smart lighting system with millions of colors and wireless control.",
+      "longDesc": "Transform your home with smart lighting that adapts to your daily rhythm. Create the perfect ambiance with 16 million colors and thousands of shades of white light, all controlled from your smartphone or voice.",
+      "specs": [
+        "16 million colors",
+        "Voice control compatible",
+        "Bluetooth + Zigbee",
+        "Sync with music/movies",
+        "Geofencing"
+      ],
+      "price": "$199.99",
+      "category": "Smart Lighting",
+      "colors": ["Multicolor bulbs available"],
+      "dimensions": "A19 bulb: 110mm H × 60mm diameter",
+      "referenceLinks": [
+        "https://philips-hue.com",
+        "https://amazon.com/philips-hue-color"
+      ]
+    },
+    {
+      "id": "sony-bravia",
+      "name": "Sony Bravia XR A95L OLED",
+      "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=800&h=600&fit=crop",
+      "shortDesc": "Premium 4K OLED television with perfect blacks and vibrant colors.",
+      "longDesc": "The Sony Bravia XR A95L features QD-OLED technology for unprecedented brightness and color. With the Cognitive Processor XR, it delivers pictures and sound the way humans see and hear for a truly immersive experience.",
+      "specs": [
+        "QD-OLED technology",
+        "Cognitive Processor XR",
+        "4K 120Hz",
+        "HDMI 2.1",
+        "Google TV"
+      ],
+      "price": "$2,799.99",
+      "category": "Premium TV",
+      "colors": ["Black"],
+      "dimensions": "65\": 1449 × 835 × 41mm (without stand)",
+      "referenceLinks": [
+        "https://sony.com/bravia-oled",
+        "https://bestbuy.com/sony-bravia-oled"
+      ]
+    }
+  ],
+  "Gaming Accessories": [
+    {
+      "id": "razer-mouse",
+      "name": "Razer DeathAdder V3 Pro",
+      "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?w=800&h=600&fit=crop",
+      "shortDesc": "High-precision wireless gaming mouse with ergonomic design.",
+      "longDesc": "The DeathAdder V3 Pro features Razer's most advanced sensor technology with 30,000 DPI, ultra-lightweight design, and up to 90 hours of battery life for competitive gaming without compromise.",
+      "specs": [
+        "Focus Pro 30K sensor",
+        "90-hour battery life",
+        "4000Hz polling rate",
+        "Optical switches",
+        "Ergonomic shape"
+      ],
+      "price": "$149.99",
+      "category": "Gaming Mouse",
+      "colors": ["Black", "White"],
+      "dimensions": "128 × 68 × 44 mm",
+      "referenceLinks": [
+        "https://razer.com/gaming-mice/deathadder-v3-pro",
+        "https://amazon.com/razer-deathadder-v3-pro"
+      ]
+    },
+    {
+      "id": "logitech-keyboard",
+      "name": "Logitech G915 TKL",
+      "image": "https://images.unsplash.com/photo-1541140532154-b024d705b90a?w=800&h=600&fit=crop",
+      "shortDesc": "Premium mechanical keyboard with tactile switches and RGB backlighting.",
+      "longDesc": "The G915 TKL combines professional-grade performance with sophisticated design. Features low-profile GL mechanical switches, LIGHTSYNC RGB, and wireless connectivity for the ultimate gaming experience.",
+      "specs": [
+        "GL mechanical switches",
+        "LIGHTSYNC RGB",
+        "Wireless connectivity",
+        "32-hour battery",
+        "Tenkeyless design"
+      ],
+      "price": "$229.99",
+      "category": "Gaming Keyboard",
+      "colors": ["Black", "White"],
+      "dimensions": "368 × 150 × 22 mm",
+      "referenceLinks": [
+        "https://logitech.com/g915-tkl",
+        "https://amazon.com/logitech-g915-tkl"
+      ]
+    },
+    {
+      "id": "alienware-monitor",
+      "name": "Alienware AW3423DWF",
+      "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=800&h=600&fit=crop",
+      "shortDesc": "Ultra-wide curved gaming monitor with high refresh rate and HDR.",
+      "longDesc": "The Alienware 34-inch curved QD-OLED monitor delivers an incredible gaming experience with 165Hz refresh rate, 0.1ms response time, and stunning HDR400 True Black for perfect contrast.",
+      "specs": [
+        "34-inch QD-OLED",
+        "3440x1440 resolution",
+        "165Hz refresh rate",
+        "0.1ms response time",
+        "HDR400 True Black"
+      ],
+      "price": "$1,099.99",
+      "category": "Gaming Monitor",
+      "colors": ["Dark Grey"],
+      "dimensions": "808.6 × 364.5 × 110.3 mm",
+      "referenceLinks": [
+        "https://dell.com/alienware-monitors",
+        "https://amazon.com/alienware-aw3423dwf"
+      ]
+    },
+    {
+      "id": "elgato-deck",
+      "name": "Elgato Stream Deck MK.2",
+      "image": "https://images.unsplash.com/photo-1593508512255-86ab42a8e620?w=800&h=600&fit=crop",
+      "shortDesc": "Customizable control surface for streamers and content creators.",
+      "longDesc": "The Stream Deck MK.2 features 15 customizable LCD keys that can trigger unlimited actions. Perfect for streamers, content creators, and productivity enthusiasts who want instant access to their most important functions.",
+      "specs": [
+        "15 customizable LCD keys",
+        "Plug and play setup",
+        "Unlimited actions",
+        "Multi-layer functionality",
+        "Drag and drop customization"
+      ],
+      "price": "$149.95",
+      "category": "Creator Tool",
+      "colors": ["Black"],
+      "dimensions": "118 × 84 × 25 mm",
+      "referenceLinks": [
+        "https://elgato.com/stream-deck",
+        "https://amazon.com/elgato-stream-deck"
+      ]
+    },
+    {
+      "id": "oculus-quest-3",
+      "name": "Meta Quest 3",
+      "image": "https://images.unsplash.com/photo-1617802690992-15d93263d3a9?w=800&h=600&fit=crop",
+      "shortDesc": "Standalone VR headset with mixed reality capabilities and wireless freedom.",
+      "longDesc": "The Meta Quest 3 delivers next-level performance with the Snapdragon XR2 Gen 2 processor, mixed reality experiences, and a vast library of VR games and apps. No PC or wires required.",
+      "specs": [
+        "Snapdragon XR2 Gen 2",
+        "Mixed reality passthrough",
+        "4K+ Infinite Display",
+        "6DOF tracking",
+        "Hand tracking"
+      ],
+      "price": "$499.99",
+      "category": "VR Headset",
+      "colors": ["White"],
+      "dimensions": "184 × 92 × 142 mm",
+      "referenceLinks": [
+        "https://meta.com/quest-3",
+        "https://amazon.com/meta-quest-3"
+      ]
+    }
+  ]
+}
